@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mathematical and computer sceince real world problems<br>👯 I’m looking to collaborate on Mathematics<br>🤝 I’m looking for help with Mathematics<br>🌱 I’m currently learning Data Science and Mathematics<br>💬 Ask me about Mathematics<br>⚡ 0.1+0.2!+0.3 in python
+🔭 I’m currently working on Mathematical and computer sceince real world problems<br>👯 I’m looking to collaborate on Mathematics<br>🤝 I’m looking for help with Mathematics<br>🌱 I’m currently learning Data Science and Mathematics<br>💬 Ask me about Mathematics<br>⚡ 0.1+0.2!=0.3 in python
 
 
 ## 🌐 Socials:
